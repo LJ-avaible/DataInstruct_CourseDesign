@@ -1,2 +1,1 @@
-# DataStructures_CourseDesign
-**Welcome form My_DataStructures_CourseDesign from 2024欢迎来自2024年的My_DataInstructures_CourseDesign**
+# Welcome to My DataInstructures_CourseDesign
